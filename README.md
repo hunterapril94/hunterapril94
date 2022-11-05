@@ -5,7 +5,7 @@
 
 ### Specializes in React, javascript and hilarious memes
 
-- 🍎 I’m currently working on an [Apples to Apples](https://applestoapples.herokuapp.com/) app to play with my family 
+- 🍎 I’m currently working on an a couple of profile sites for some clients. 
 - 🌱 I’m currently learning Redux
 - 💬 Ask me about my baby or my dog. They're very cute!
 - 📫 How to reach me: [hunterapril94@gmail.com](mailto:hunterapril94@gmail.com)
